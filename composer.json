@@ -1,0 +1,15 @@
+{
+    "name": "ijfeng/seed-framework",
+    "authors": [
+        {
+            "name": "ijfeng",
+            "email": "mailjfeng@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Seed\\" : "src/"
+        }
+    }
+}
